@@ -1,0 +1,18 @@
+{
+  "name": "multivision",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Nilesh Gokhale"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "toastr": "^2.1.2",
+    "angular": "^2.0.0-rc.1",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7"
+  }
+}
